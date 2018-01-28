@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-transformer-remark",
+  "name": "gatsby-transformer-remark-react",
   "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
   "version": "1.7.30",
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
